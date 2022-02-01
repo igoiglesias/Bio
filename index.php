@@ -7,18 +7,25 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="description" content="Developer">
     <meta name="robots" content="index, follow" />
-    <meta name="url" content="www.agenciacamp.com.br" />
+    <meta name="url" content="https://iglesias.dev.br/" />
     <meta name="author" content="Igor Iglesias">
     <meta name="keywords" content="developer, programmer, python, fullstack, javascript, technology, js, backend, linux, web, desenvolvedor, programador, tecnologia, interenet, iot">
     <meta property="og:title" content="Developer" />
     <meta property="og:type" content="website" />
     <meta property="og:description" content="Developer" />
     <meta property="og:image" content="images/agenciacamp-design-marketing-digital.jpg" />
-    <meta property="og:url" content="https://igoriglesias.com" />
+    <meta property="og:url" content="https://iglesias.dev.br/" />
     <link rel="icon" href="images/favicon.ico" />
     <link href="css/poppins.min.css" rel="stylesheet">
     <link href="css/style.min.css" rel="stylesheet">
     <script src="lib/fontawesome.js"></script>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-NDLBNFC');</script>
+    <!-- End Google Tag Manager -->
 </head>
 
 <body>
@@ -44,6 +51,11 @@
                     <div class="row">
                         <div class="col-lg-12 text-center">
                             <a href="https://www.linkedin.com/in/igor-iglesias-62478428/"><button button class="btn-opcoes btn">Linkedin</button></a>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-12 text-center">
+                            <a href="https://iiglesias.medium.com/"><button button class="btn-opcoes btn">Blog</button></a>
                         </div>
                     </div>
                     <div class="row">
